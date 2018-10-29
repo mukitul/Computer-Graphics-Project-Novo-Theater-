@@ -6,6 +6,6 @@ Tools Used:
 
 Some Views From This Project:
 
-![](Computer-Graphics-Project-Novo-Theater-/1. front_view.png)
+![](https://github.com/mukitul/Computer-Graphics-Project-Novo-Theater-/blob/master/1.%20front_view.png)
         
       
