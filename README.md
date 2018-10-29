@@ -7,6 +7,13 @@ Follow This Link: (https://youtu.be/9iRh9TnYZt4)
 1) OpenGL
 2) CodeBlocks
 
+# Special Effects:
+1) Wave (waving leaf and flag)
+2) Fog Effect
+3) Day/Night Mode
+4) Light On/Off effect
+5) Camera rotations
+
 # Some Views From This Project:
 # 1. Front View:
 ![](https://github.com/mukitul/Computer-Graphics-Project-Novo-Theater-/blob/master/1.%20front_view.png)
