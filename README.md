@@ -5,6 +5,7 @@ Tools Used:
 2) CodeBlocks
 
 Some Views From This Project:
-![alt text](Computer-Graphics-Project-Novo-Theater-/1. front_view.png)
+
+![](Computer-Graphics-Project-Novo-Theater-/1. front_view.png)
         
       
