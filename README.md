@@ -1,7 +1,7 @@
 # Computer-Graphics-Project-Novo-Theater-
 This is a project for computer graphics lab. This project is a computer graphics design of 'Bongobondhu Sheikh Mujibur Rahman Novo Theater'.
 # Project Video:
-![](https://youtu.be/9iRh9TnYZt4)
+![Click Here](https://youtu.be/9iRh9TnYZt4)
 
 # Tools Used:
 1) OpenGL
